@@ -42,3 +42,32 @@ INFO:root:'NoneType' object has no attribute 'div'
 INFO:root:log my final result [{'Product': 'iphone11', 'Name': 'siva sankar', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Photos super'}, {'Product': 'iphone11', 'Name': 'Steevan Rattra ', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Good Camera'}, {'Product': 'iphone11', 'Name': 'Manish  Deshlahare', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Very very good'}, {'Product': 'iphone11', 'Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!'}, {'Product': 'iphone11', 'Name': 'Sonam Lama', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'very good camera quality'}, {'Product': 'iphone11', 'Name': 'Abhishek Sachdeva', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!'}, {'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'This is amazing at all'}, {'Product': 'iphone11', 'Name': 'Dev', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Value for money \U0001f60d'}, {'Product': 'iphone11', 'Name': 'Thoha P', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Value for money \U0001f5a4\U0001f5a4'}, {'Product': 'iphone11', 'Name': 'Sakshi Bharti', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Super\U0001f525 and good performance \U0001f44c\u2764\ufe0f'}, {'Product': 'iphone11', 'Name': 'Sakshi Bharti', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Super\U0001f525 and good performance \U0001f44c\u2764\ufe0f'}]
 INFO:werkzeug:127.0.0.1 - - [24/Dec/2023 12:14:09] "POST /review HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [24/Dec/2023 12:14:09] "[33mGET /style.css HTTP/1.1[0m" 404 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.17:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [24/Dec/2023 12:32:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Dec/2023 12:32:43] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Dec/2023 12:32:43] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Dec/2023 12:32:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Dec/2023 12:33:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Dec/2023 12:39:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Dec/2023 12:39:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Dec/2023 12:39:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Dec/2023 12:39:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Dec/2023 12:39:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Dec/2023 12:39:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Dec/2023 12:39:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Dec/2023 12:39:10] "GET / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.1.17:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [24/Dec/2023 12:39:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Dec/2023 12:39:55] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Dec/2023 12:39:55] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Dec/2023 12:39:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone11', 'Name': 'siva sankar', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Photos super'}, {'Product': 'iphone11', 'Name': 'Steevan Rattra ', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Good Camera'}, {'Product': 'iphone11', 'Name': 'Manish  Deshlahare', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Very very good'}, {'Product': 'iphone11', 'Name': 'Vishnu Ramakrishnan', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Camera is awesomeBest battery backupA performer \U0001f44c\U0001f3fbIt will be a real value for money if they provide charger and earphone inbox!'}, {'Product': 'iphone11', 'Name': 'Sonam Lama', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'very good camera quality'}, {'Product': 'iphone11', 'Name': 'Abhishek Sachdeva', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!'}, {'Product': 'iphone11', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'This is amazing at all'}, {'Product': 'iphone11', 'Name': 'Dev', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Value for money \U0001f60d'}, {'Product': 'iphone11', 'Name': 'Thoha P', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Value for money \U0001f5a4\U0001f5a4'}, {'Product': 'iphone11', 'Name': 'Sakshi Bharti', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Super\U0001f525 and good performance \U0001f44c\u2764\ufe0f'}, {'Product': 'iphone11', 'Name': 'Sakshi Bharti', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Super\U0001f525 and good performance \U0001f44c\u2764\ufe0f'}]
+INFO:werkzeug:127.0.0.1 - - [24/Dec/2023 12:40:03] "POST /review HTTP/1.1" 200 -

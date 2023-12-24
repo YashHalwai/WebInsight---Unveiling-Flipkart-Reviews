@@ -5,7 +5,8 @@ body, html {
 
 .content {
     margin: 0 auto;
-    width: 400px;
+    width: 80%; /* Adjusted for better responsiveness */
+    max-width: 600px; /* Added max-width to prevent content from stretching too wide */
 }
 
 table, td, th {
@@ -17,13 +18,12 @@ table {
     width: 100%;
 }
 
-th {
-    height: 30px;
+th, td {
+    padding: 10px; /* Increased padding for better spacing */
 }
 
-td {
-    text-align: center;
-    padding: 5px;
+th {
+    background-color: #eee; /* Light gray background for table headers */
 }
 
 .form {
@@ -31,5 +31,7 @@ td {
 }
 
 #content {
-    width: 70%;
+    width: 100%;
 }
+
+/* Add any additional styles as needed */
